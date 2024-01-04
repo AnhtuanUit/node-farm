@@ -2,6 +2,16 @@
 
 Welcome to Node-Farm, a simple Node.js project designed for learning and practicing core concepts. This project provides hands-on experience with essential Node.js skills, drawing inspiration from the ["Node.js, Express, MongoDB & More: The Complete Bootcamp 2024"](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) Udemy course.
 
+## Video Demo and Live Application
+
+[![Watch the Demo Video](https://img.youtube.com/vi/rjFyC-LCGPg/0.jpg)](https://youtu.be/rjFyC-LCGPg)
+
+Click on the image above or use this [link](https://youtu.be/rjFyC-LCGPg) to watch the demo video.
+
+Explore the live demo of the Natours web application: [Node Farm Demo](https://node-farm-1cep.onrender.com/)
+
+**Note:** The live demo is hosted on a free hosting service, and it may take about 1 or 2 minutes for the server to wake up if it's in a sleeping state.
+
 ## Getting Started
 
 1. **Clone the repository:**
